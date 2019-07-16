@@ -157,10 +157,10 @@ info: Playoff member tc_305384 played an action to win F2F challenge 30055214
 
 ## Notes
 
+- This submission provides scripts to view/remove/list playoff players
 - The testing Playoff account allows at most 10 players, if player count exceeds 10, you will see 'player_limit_exceeded' error
 - If you see above error, you may run `npm run list-players` to list players, then run `npm run remove-player {player-id}` to remove some players,
   to get space to create new players
-- This submission provides scripts to view/remove/list playoff players
 - This submission properly handles pagination when listing challenge submissions
 - Sometimes if internet connection is not stable, there may be error accessing TC API or Playoff API,
   in such case, please re-try
