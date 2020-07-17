@@ -21,7 +21,7 @@
     "config": "^3.0.1",
     "get-parameter-names": "^0.3.0",
     "joi": "^14.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "no-kafka": "^3.4.3",
     "simple-oauth2": "^2.2.1",
     "superagent": "^5.1.0",
